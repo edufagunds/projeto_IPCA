@@ -6,9 +6,8 @@ O presente trabalho tem como proposito responder as perguntas abaixo, sendo elas
 ### Como os preços dos alimentos em São Paulo evoluíram ao longo do ano?
 - [ ] Identifique variações mensais e acumulado no ano.
 
-
 - [ ] Qual foi o mês com o maior aumento nos preços de alimentos em São Paulo?
-- [ ] Destaque os picos de inflação em alimentos.
+
 
 
 ----------------------------------------------------------------------------------
