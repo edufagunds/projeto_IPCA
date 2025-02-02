@@ -19,9 +19,6 @@ O presente trabalho tem como proposito responder as perguntas abaixo, sendo elas
 ### Quais alimentos apresentaram quedas ou aumentos menores?
 - [ ] Identifique possíveis alívios no orçamento.
 
-### Os alimentos básicos (arroz, feijão, óleo, carne) foram mais afetados que os alimentos processados?
-- [ ] Analise a diferença de impacto entre esses grupos.
-
 ----------------------------------------------------------------------------------
 
 ## 3. Comportamento sazonal
