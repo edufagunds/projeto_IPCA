@@ -9,22 +9,22 @@
 
 ## 1. Tendências gerais
 ### Como os preços dos alimentos em São Paulo evoluíram ao longo do ano?
-- Podemos perceber uma crescente na alta dos preços da laranja, o maior 
+- Podemos perceber uma crescente na alta dos preços da laranja.
 
 ----------------------------------------------------------------------------------
 
 ## 2. Principais responsáveis pelo aumento
 ### Quais alimentos tiveram os maiores aumentos no ano?
-- Laranja Pera, Óleo de Soja, Café moido e Acém
+- Laranja Pera, Óleo de Soja, Café moido e Acém.
 
 ### Quais alimentos apresentaram quedas ou aumentos menores?
-- Ovo de galinha, Margarina, Pimentão, Cebola e Tomate
+- Ovo de galinha, Margarina, Pimentão, Cebola e Tomate.
 
 ----------------------------------------------------------------------------------
 
 ## 3. Impacto no cotidiano paulista
 ### Qual item do prato básico foi o maior vilão da inflação alimentar
-- Dentre todas as altas que tivemos, os três que mais impactam na cesta do brasileiro são: Café(32.71%), Contrafilé(26.84%) e Leite(24.24%)
+- Dentre todas as altas que tivemos, os três que mais impactam na cesta do brasileiro são: Café(32.71%), Contrafilé(26.84%) e Leite(24.24%).
 
 ----------------------------------------------------------------------------------
 
