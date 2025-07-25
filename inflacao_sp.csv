@@ -1,0 +1,421 @@
+;Itens;Categorias;inflacao_acumulada;Mês;inflacao
+0;Banana - prata;frutas;10.84;2024-01;4.91
+1;Laranja - pera;frutas;55.77;2024-01;6.79
+2;Mamão;frutas;0.31;2024-01;-7.03
+3;Maçã;frutas;12.64;2024-01;4.98
+4;Melancia;frutas;0.0;2024-01;0.0
+5;Arroz;graos;8.77;2024-01;4.63
+6;Farinha de mandioca;graos;4.86;2024-01;1.26
+7;Farinha de trigo;graos;-1.75;2024-01;-3.54
+8;Feijão - carioca (rajado);graos;-4.66;2024-01;9.96
+9;Macarrão;graos;0.78;2024-01;1.13
+10;Alface;hortalicas;2.98;2024-01;-1.09
+11;Batata-inglesa;hortalicas;-1.49;2024-01;22.34
+12;Cebola;hortalicas;-15.86;2024-01;-5.92
+13;Cenoura;hortalicas;-5.82;2024-01;35.32
+14;Couve;hortalicas;1.24;2024-01;-1.23
+15;Pimentão;hortalicas;-13.32;2024-01;0.18
+16;Tomate;hortalicas;-26.62;2024-01;-5.47
+17;Iogurte e bebidas lácteas;laticinios;7.37;2024-01;0.25
+18;Leite longa vida;laticinios;24.24;2024-01;2.81
+19;Queijo;laticinios;0.86;2024-01;2.84
+20;Azeite de oliva;oleos_gorduras;22.37;2024-01;3.56
+21;Manteiga;oleos_gorduras;0.0;2024-01;0.0
+22;Margarina;oleos_gorduras;-6.64;2024-01;-0.9
+23;Óleo de soja;oleos_gorduras;33.74;2024-01;3.45
+24;Café moído;outros;32.71;2024-01;0.6
+25;Café solúvel;outros;0.0;2024-01;0.0
+26;Sal;outros;0.0;2024-01;0.0
+27;Acém;proteinas;30.96;2024-01;-2.02
+28;Alcatra;proteinas;27.96;2024-01;0.33
+29;Carne de porco;proteinas;20.16;2024-01;-2.9
+30;Contrafilé;proteinas;26.84;2024-01;1.36
+31;Costela;proteinas;23.79;2024-01;-1.27
+32;Frango em pedaços;proteinas;6.85;2024-01;0.96
+33;Frango inteiro;proteinas;2.22;2024-01;-1.02
+34;Ovo de galinha;proteinas;-6.53;2024-01;-4.57
+35;Banana - prata;frutas;10.84;2024-02;7.34
+36;Laranja - pera;frutas;55.77;2024-02;7.76
+37;Mamão;frutas;0.31;2024-02;6.42
+38;Maçã;frutas;12.64;2024-02;-1.8
+39;Melancia;frutas;0.0;2024-02;0.0
+40;Arroz;graos;8.77;2024-02;4.36
+41;Farinha de mandioca;graos;4.86;2024-02;0.41
+42;Farinha de trigo;graos;-1.75;2024-02;-0.33
+43;Feijão - carioca (rajado);graos;-4.66;2024-02;6.29
+44;Macarrão;graos;0.78;2024-02;-1.89
+45;Alface;hortalicas;2.98;2024-02;4.74
+46;Batata-inglesa;hortalicas;-1.49;2024-02;8.78
+47;Cebola;hortalicas;-15.86;2024-02;0.12
+48;Cenoura;hortalicas;-5.82;2024-02;9.73
+49;Couve;hortalicas;1.24;2024-02;2.76
+50;Pimentão;hortalicas;-13.32;2024-02;-11.24
+51;Tomate;hortalicas;-26.62;2024-02;6.55
+52;Iogurte e bebidas lácteas;laticinios;7.37;2024-02;0.95
+53;Leite longa vida;laticinios;24.24;2024-02;5.1
+54;Queijo;laticinios;0.86;2024-02;-1.12
+55;Azeite de oliva;oleos_gorduras;22.37;2024-02;2.23
+56;Manteiga;oleos_gorduras;0.0;2024-02;0.0
+57;Margarina;oleos_gorduras;-6.64;2024-02;0.26
+58;Óleo de soja;oleos_gorduras;33.74;2024-02;-0.5
+59;Café moído;outros;32.71;2024-02;-1.82
+60;Café solúvel;outros;0.0;2024-02;0.0
+61;Sal;outros;0.0;2024-02;0.0
+62;Acém;proteinas;30.96;2024-02;0.66
+63;Alcatra;proteinas;27.96;2024-02;1.46
+64;Carne de porco;proteinas;20.16;2024-02;0.14
+65;Contrafilé;proteinas;26.84;2024-02;-0.11
+66;Costela;proteinas;23.79;2024-02;0.95
+67;Frango em pedaços;proteinas;6.85;2024-02;-0.14
+68;Frango inteiro;proteinas;2.22;2024-02;1.01
+69;Ovo de galinha;proteinas;-6.53;2024-02;1.27
+70;Banana - prata;frutas;10.84;2024-03;6.93
+71;Laranja - pera;frutas;55.77;2024-03;7.97
+72;Mamão;frutas;0.31;2024-03;8.02
+73;Maçã;frutas;12.64;2024-03;3.92
+74;Melancia;frutas;0.0;2024-03;0.0
+75;Arroz;graos;8.77;2024-03;1.24
+76;Farinha de mandioca;graos;4.86;2024-03;-0.12
+77;Farinha de trigo;graos;-1.75;2024-03;-1.28
+78;Feijão - carioca (rajado);graos;-4.66;2024-03;1.92
+79;Macarrão;graos;0.78;2024-03;-0.71
+80;Alface;hortalicas;2.98;2024-03;3.27
+81;Batata-inglesa;hortalicas;-1.49;2024-03;-5.0
+82;Cebola;hortalicas;-15.86;2024-03;19.48
+83;Cenoura;hortalicas;-5.82;2024-03;-7.39
+84;Couve;hortalicas;1.24;2024-03;3.21
+85;Pimentão;hortalicas;-13.32;2024-03;11.63
+86;Tomate;hortalicas;-26.62;2024-03;5.88
+87;Iogurte e bebidas lácteas;laticinios;7.37;2024-03;-1.24
+88;Leite longa vida;laticinios;24.24;2024-03;3.25
+89;Queijo;laticinios;0.86;2024-03;-3.68
+90;Azeite de oliva;oleos_gorduras;22.37;2024-03;4.38
+91;Manteiga;oleos_gorduras;0.0;2024-03;0.0
+92;Margarina;oleos_gorduras;-6.64;2024-03;-2.39
+93;Óleo de soja;oleos_gorduras;33.74;2024-03;0.14
+94;Café moído;outros;32.71;2024-03;1.33
+95;Café solúvel;outros;0.0;2024-03;0.0
+96;Sal;outros;0.0;2024-03;0.0
+97;Acém;proteinas;30.96;2024-03;1.59
+98;Alcatra;proteinas;27.96;2024-03;-4.58
+99;Carne de porco;proteinas;20.16;2024-03;-2.72
+100;Contrafilé;proteinas;26.84;2024-03;-3.81
+101;Costela;proteinas;23.79;2024-03;0.73
+102;Frango em pedaços;proteinas;6.85;2024-03;1.11
+103;Frango inteiro;proteinas;2.22;2024-03;1.55
+104;Ovo de galinha;proteinas;-6.53;2024-03;3.23
+105;Banana - prata;frutas;10.84;2024-04;-0.31
+106;Laranja - pera;frutas;55.77;2024-04;1.22
+107;Mamão;frutas;0.31;2024-04;25.39
+108;Maçã;frutas;12.64;2024-04;1.24
+109;Melancia;frutas;0.0;2024-04;0.0
+110;Arroz;graos;8.77;2024-04;-2.05
+111;Farinha de mandioca;graos;4.86;2024-04;1.78
+112;Farinha de trigo;graos;-1.75;2024-04;-0.45
+113;Feijão - carioca (rajado);graos;-4.66;2024-04;-4.66
+114;Macarrão;graos;0.78;2024-04;1.32
+115;Alface;hortalicas;2.98;2024-04;2.49
+116;Batata-inglesa;hortalicas;-1.49;2024-04;-7.61
+117;Cebola;hortalicas;-15.86;2024-04;7.19
+118;Cenoura;hortalicas;-5.82;2024-04;3.58
+119;Couve;hortalicas;1.24;2024-04;3.2
+120;Pimentão;hortalicas;-13.32;2024-04;25.26
+121;Tomate;hortalicas;-26.62;2024-04;19.41
+122;Iogurte e bebidas lácteas;laticinios;7.37;2024-04;2.22
+123;Leite longa vida;laticinios;24.24;2024-04;1.02
+124;Queijo;laticinios;0.86;2024-04;-0.57
+125;Azeite de oliva;oleos_gorduras;22.37;2024-04;1.34
+126;Manteiga;oleos_gorduras;0.0;2024-04;0.0
+127;Margarina;oleos_gorduras;-6.64;2024-04;-0.14
+128;Óleo de soja;oleos_gorduras;33.74;2024-04;-0.02
+129;Café moído;outros;32.71;2024-04;2.94
+130;Café solúvel;outros;0.0;2024-04;0.0
+131;Sal;outros;0.0;2024-04;0.0
+132;Acém;proteinas;30.96;2024-04;0.97
+133;Alcatra;proteinas;27.96;2024-04;0.88
+134;Carne de porco;proteinas;20.16;2024-04;2.43
+135;Contrafilé;proteinas;26.84;2024-04;-2.15
+136;Costela;proteinas;23.79;2024-04;-2.61
+137;Frango em pedaços;proteinas;6.85;2024-04;-0.37
+138;Frango inteiro;proteinas;2.22;2024-04;-2.79
+139;Ovo de galinha;proteinas;-6.53;2024-04;1.6
+140;Banana - prata;frutas;10.84;2024-05;-7.31
+141;Laranja - pera;frutas;55.77;2024-05;-4.53
+142;Mamão;frutas;0.31;2024-05;-2.08
+143;Maçã;frutas;12.64;2024-05;1.01
+144;Melancia;frutas;0.0;2024-05;0.0
+145;Arroz;graos;8.77;2024-05;0.75
+146;Farinha de mandioca;graos;4.86;2024-05;0.13
+147;Farinha de trigo;graos;-1.75;2024-05;1.39
+148;Feijão - carioca (rajado);graos;-4.66;2024-05;-6.47
+149;Macarrão;graos;0.78;2024-05;0.21
+150;Alface;hortalicas;2.98;2024-05;-1.46
+151;Batata-inglesa;hortalicas;-1.49;2024-05;12.15
+152;Cebola;hortalicas;-15.86;2024-05;16.1
+153;Cenoura;hortalicas;-5.82;2024-05;6.63
+154;Couve;hortalicas;1.24;2024-05;2.15
+155;Pimentão;hortalicas;-13.32;2024-05;-4.76
+156;Tomate;hortalicas;-26.62;2024-05;-10.55
+157;Iogurte e bebidas lácteas;laticinios;7.37;2024-05;-0.53
+158;Leite longa vida;laticinios;24.24;2024-05;5.56
+159;Queijo;laticinios;0.86;2024-05;-2.0
+160;Azeite de oliva;oleos_gorduras;22.37;2024-05;2.92
+161;Manteiga;oleos_gorduras;0.0;2024-05;0.0
+162;Margarina;oleos_gorduras;-6.64;2024-05;-1.52
+163;Óleo de soja;oleos_gorduras;33.74;2024-05;0.15
+164;Café moído;outros;32.71;2024-05;2.69
+165;Café solúvel;outros;0.0;2024-05;0.0
+166;Sal;outros;0.0;2024-05;0.0
+167;Acém;proteinas;30.96;2024-05;-1.14
+168;Alcatra;proteinas;27.96;2024-05;-0.77
+169;Carne de porco;proteinas;20.16;2024-05;-0.59
+170;Contrafilé;proteinas;26.84;2024-05;-0.41
+171;Costela;proteinas;23.79;2024-05;0.78
+172;Frango em pedaços;proteinas;6.85;2024-05;1.36
+173;Frango inteiro;proteinas;2.22;2024-05;1.39
+174;Ovo de galinha;proteinas;-6.53;2024-05;-1.77
+175;Banana - prata;frutas;10.84;2024-06;-5.5
+176;Laranja - pera;frutas;55.77;2024-06;-3.45
+177;Mamão;frutas;0.31;2024-06;-21.01
+178;Maçã;frutas;12.64;2024-06;0.11
+179;Melancia;frutas;0.0;2024-06;0.0
+180;Arroz;graos;8.77;2024-06;2.18
+181;Farinha de mandioca;graos;4.86;2024-06;-0.14
+182;Farinha de trigo;graos;-1.75;2024-06;-1.03
+183;Feijão - carioca (rajado);graos;-4.66;2024-06;-3.55
+184;Macarrão;graos;0.78;2024-06;-0.02
+185;Alface;hortalicas;2.98;2024-06;-5.18
+186;Batata-inglesa;hortalicas;-1.49;2024-06;17.67
+187;Cebola;hortalicas;-15.86;2024-06;-5.19
+188;Cenoura;hortalicas;-5.82;2024-06;-1.6
+189;Couve;hortalicas;1.24;2024-06;-1.56
+190;Pimentão;hortalicas;-13.32;2024-06;-5.93
+191;Tomate;hortalicas;-26.62;2024-06;13.15
+192;Iogurte e bebidas lácteas;laticinios;7.37;2024-06;0.26
+193;Leite longa vida;laticinios;24.24;2024-06;6.98
+194;Queijo;laticinios;0.86;2024-06;1.28
+195;Azeite de oliva;oleos_gorduras;22.37;2024-06;1.43
+196;Manteiga;oleos_gorduras;0.0;2024-06;0.0
+197;Margarina;oleos_gorduras;-6.64;2024-06;0.15
+198;Óleo de soja;oleos_gorduras;33.74;2024-06;0.17
+199;Café moído;outros;32.71;2024-06;2.46
+200;Café solúvel;outros;0.0;2024-06;0.0
+201;Sal;outros;0.0;2024-06;0.0
+202;Acém;proteinas;30.96;2024-06;-1.06
+203;Alcatra;proteinas;27.96;2024-06;-1.09
+204;Carne de porco;proteinas;20.16;2024-06;1.37
+205;Contrafilé;proteinas;26.84;2024-06;-1.96
+206;Costela;proteinas;23.79;2024-06;-2.31
+207;Frango em pedaços;proteinas;6.85;2024-06;-1.46
+208;Frango inteiro;proteinas;2.22;2024-06;-1.49
+209;Ovo de galinha;proteinas;-6.53;2024-06;1.16
+210;Banana - prata;frutas;10.84;2024-07;-1.3
+211;Laranja - pera;frutas;55.77;2024-07;-1.7
+212;Mamão;frutas;0.31;2024-07;-15.79
+213;Maçã;frutas;12.64;2024-07;-4.91
+214;Melancia;frutas;0.0;2024-07;0.0
+215;Arroz;graos;8.77;2024-07;-0.02
+216;Farinha de mandioca;graos;4.86;2024-07;0.89
+217;Farinha de trigo;graos;-1.75;2024-07;-1.69
+218;Feijão - carioca (rajado);graos;-4.66;2024-07;-1.15
+219;Macarrão;graos;0.78;2024-07;0.34
+220;Alface;hortalicas;2.98;2024-07;-3.04
+221;Batata-inglesa;hortalicas;-1.49;2024-07;-6.42
+222;Cebola;hortalicas;-15.86;2024-07;-9.96
+223;Cenoura;hortalicas;-5.82;2024-07;-21.13
+224;Couve;hortalicas;1.24;2024-07;-5.74
+225;Pimentão;hortalicas;-13.32;2024-07;-10.41
+226;Tomate;hortalicas;-26.62;2024-07;-29.94
+227;Iogurte e bebidas lácteas;laticinios;7.37;2024-07;1.08
+228;Leite longa vida;laticinios;24.24;2024-07;0.43
+229;Queijo;laticinios;0.86;2024-07;-1.86
+230;Azeite de oliva;oleos_gorduras;22.37;2024-07;0.64
+231;Manteiga;oleos_gorduras;0.0;2024-07;0.0
+232;Margarina;oleos_gorduras;-6.64;2024-07;-3.15
+233;Óleo de soja;oleos_gorduras;33.74;2024-07;0.26
+234;Café moído;outros;32.71;2024-07;2.73
+235;Café solúvel;outros;0.0;2024-07;0.0
+236;Sal;outros;0.0;2024-07;0.0
+237;Acém;proteinas;30.96;2024-07;-0.85
+238;Alcatra;proteinas;27.96;2024-07;-0.98
+239;Carne de porco;proteinas;20.16;2024-07;1.14
+240;Contrafilé;proteinas;26.84;2024-07;1.05
+241;Costela;proteinas;23.79;2024-07;-0.54
+242;Frango em pedaços;proteinas;6.85;2024-07;0.72
+243;Frango inteiro;proteinas;2.22;2024-07;0.86
+244;Ovo de galinha;proteinas;-6.53;2024-07;-2.11
+245;Banana - prata;frutas;10.84;2024-08;1.87
+246;Laranja - pera;frutas;55.77;2024-08;6.31
+247;Mamão;frutas;0.31;2024-08;19.95
+248;Maçã;frutas;12.64;2024-08;4.8
+249;Melancia;frutas;0.0;2024-08;0.0
+250;Arroz;graos;8.77;2024-08;-1.4
+251;Farinha de mandioca;graos;4.86;2024-08;-2.17
+252;Farinha de trigo;graos;-1.75;2024-08;2.74
+253;Feijão - carioca (rajado);graos;-4.66;2024-08;-3.7
+254;Macarrão;graos;0.78;2024-08;-0.32
+255;Alface;hortalicas;2.98;2024-08;-6.98
+256;Batata-inglesa;hortalicas;-1.49;2024-08;-17.7
+257;Cebola;hortalicas;-15.86;2024-08;-9.17
+258;Cenoura;hortalicas;-5.82;2024-08;-12.29
+259;Couve;hortalicas;1.24;2024-08;-4.51
+260;Pimentão;hortalicas;-13.32;2024-08;-1.08
+261;Tomate;hortalicas;-26.62;2024-08;-16.89
+262;Iogurte e bebidas lácteas;laticinios;7.37;2024-08;0.71
+263;Leite longa vida;laticinios;24.24;2024-08;-1.52
+264;Queijo;laticinios;0.86;2024-08;1.71
+265;Azeite de oliva;oleos_gorduras;22.37;2024-08;2.06
+266;Manteiga;oleos_gorduras;0.0;2024-08;0.0
+267;Margarina;oleos_gorduras;-6.64;2024-08;0.28
+268;Óleo de soja;oleos_gorduras;33.74;2024-08;1.58
+269;Café moído;outros;32.71;2024-08;2.97
+270;Café solúvel;outros;0.0;2024-08;0.0
+271;Sal;outros;0.0;2024-08;0.0
+272;Acém;proteinas;30.96;2024-08;0.4
+273;Alcatra;proteinas;27.96;2024-08;1.69
+274;Carne de porco;proteinas;20.16;2024-08;3.68
+275;Contrafilé;proteinas;26.84;2024-08;1.12
+276;Costela;proteinas;23.79;2024-08;0.96
+277;Frango em pedaços;proteinas;6.85;2024-08;1.97
+278;Frango inteiro;proteinas;2.22;2024-08;-2.61
+279;Ovo de galinha;proteinas;-6.53;2024-08;-2.55
+280;Banana - prata;frutas;10.84;2024-09;6.96
+281;Laranja - pera;frutas;55.77;2024-09;11.81
+282;Mamão;frutas;0.31;2024-09;13.78
+283;Maçã;frutas;12.64;2024-09;0.62
+284;Melancia;frutas;0.0;2024-09;0.0
+285;Arroz;graos;8.77;2024-09;-0.02
+286;Farinha de mandioca;graos;4.86;2024-09;-1.98
+287;Farinha de trigo;graos;-1.75;2024-09;0.68
+288;Feijão - carioca (rajado);graos;-4.66;2024-09;-1.22
+289;Macarrão;graos;0.78;2024-09;0.46
+290;Alface;hortalicas;2.98;2024-09;-1.36
+291;Batata-inglesa;hortalicas;-1.49;2024-09;-6.77
+292;Cebola;hortalicas;-15.86;2024-09;-10.92
+293;Cenoura;hortalicas;-5.82;2024-09;-4.93
+294;Couve;hortalicas;1.24;2024-09;5.33
+295;Pimentão;hortalicas;-13.32;2024-09;-5.32
+296;Tomate;hortalicas;-26.62;2024-09;-3.11
+297;Iogurte e bebidas lácteas;laticinios;7.37;2024-09;2.1
+298;Leite longa vida;laticinios;24.24;2024-09;0.72
+299;Queijo;laticinios;0.86;2024-09;0.51
+300;Azeite de oliva;oleos_gorduras;22.37;2024-09;1.28
+301;Manteiga;oleos_gorduras;0.0;2024-09;0.0
+302;Margarina;oleos_gorduras;-6.64;2024-09;0.15
+303;Óleo de soja;oleos_gorduras;33.74;2024-09;2.54
+304;Café moído;outros;32.71;2024-09;1.03
+305;Café solúvel;outros;0.0;2024-09;0.0
+306;Sal;outros;0.0;2024-09;0.0
+307;Acém;proteinas;30.96;2024-09;2.97
+308;Alcatra;proteinas;27.96;2024-09;4.38
+309;Carne de porco;proteinas;20.16;2024-09;5.48
+310;Contrafilé;proteinas;26.84;2024-09;5.51
+311;Costela;proteinas;23.79;2024-09;4.08
+312;Frango em pedaços;proteinas;6.85;2024-09;-0.57
+313;Frango inteiro;proteinas;2.22;2024-09;0.15
+314;Ovo de galinha;proteinas;-6.53;2024-09;-2.54
+315;Banana - prata;frutas;10.84;2024-10;-7.71
+316;Laranja - pera;frutas;55.77;2024-10;8.82
+317;Mamão;frutas;0.31;2024-10;-21.32
+318;Maçã;frutas;12.64;2024-10;2.55
+319;Melancia;frutas;0.0;2024-10;0.0
+320;Arroz;graos;8.77;2024-10;-0.23
+321;Farinha de mandioca;graos;4.86;2024-10;1.41
+322;Farinha de trigo;graos;-1.75;2024-10;0.75
+323;Feijão - carioca (rajado);graos;-4.66;2024-10;-0.42
+324;Macarrão;graos;0.78;2024-10;0.29
+325;Alface;hortalicas;2.98;2024-10;-2.31
+326;Batata-inglesa;hortalicas;-1.49;2024-10;0.22
+327;Cebola;hortalicas;-15.86;2024-10;-12.9
+328;Cenoura;hortalicas;-5.82;2024-10;-7.35
+329;Couve;hortalicas;1.24;2024-10;-10.27
+330;Pimentão;hortalicas;-13.32;2024-10;4.64
+331;Tomate;hortalicas;-26.62;2024-10;8.78
+332;Iogurte e bebidas lácteas;laticinios;7.37;2024-10;1.14
+333;Leite longa vida;laticinios;24.24;2024-10;3.24
+334;Queijo;laticinios;0.86;2024-10;0.94
+335;Azeite de oliva;oleos_gorduras;22.37;2024-10;-0.3
+336;Manteiga;oleos_gorduras;0.0;2024-10;0.0
+337;Margarina;oleos_gorduras;-6.64;2024-10;1.65
+338;Óleo de soja;oleos_gorduras;33.74;2024-10;4.51
+339;Café moído;outros;32.71;2024-10;4.64
+340;Café solúvel;outros;0.0;2024-10;0.0
+341;Sal;outros;0.0;2024-10;0.0
+342;Acém;proteinas;30.96;2024-10;11.43
+343;Alcatra;proteinas;27.96;2024-10;5.0
+344;Carne de porco;proteinas;20.16;2024-10;0.2
+345;Contrafilé;proteinas;26.84;2024-10;8.51
+346;Costela;proteinas;23.79;2024-10;9.38
+347;Frango em pedaços;proteinas;6.85;2024-10;0.76
+348;Frango inteiro;proteinas;2.22;2024-10;2.35
+349;Ovo de galinha;proteinas;-6.53;2024-10;-0.91
+350;Banana - prata;frutas;10.84;2024-11;0.64
+351;Laranja - pera;frutas;55.77;2024-11;5.56
+352;Mamão;frutas;0.31;2024-11;5.49
+353;Maçã;frutas;12.64;2024-11;-2.76
+354;Melancia;frutas;0.0;2024-11;0.0
+355;Arroz;graos;8.77;2024-11;-0.04
+356;Farinha de mandioca;graos;4.86;2024-11;0.17
+357;Farinha de trigo;graos;-1.75;2024-11;-0.24
+358;Feijão - carioca (rajado);graos;-4.66;2024-11;1.09
+359;Macarrão;graos;0.78;2024-11;0.98
+360;Alface;hortalicas;2.98;2024-11;9.33
+361;Batata-inglesa;hortalicas;-1.49;2024-11;0.47
+362;Cebola;hortalicas;-15.86;2024-11;2.91
+363;Cenoura;hortalicas;-5.82;2024-11;7.76
+364;Couve;hortalicas;1.24;2024-11;7.0
+365;Pimentão;hortalicas;-13.32;2024-11;0.87
+366;Tomate;hortalicas;-26.62;2024-11;-1.48
+367;Iogurte e bebidas lácteas;laticinios;7.37;2024-11;0.14
+368;Leite longa vida;laticinios;24.24;2024-11;-2.9
+369;Queijo;laticinios;0.86;2024-11;1.19
+370;Azeite de oliva;oleos_gorduras;22.37;2024-11;0.29
+371;Manteiga;oleos_gorduras;0.0;2024-11;0.0
+372;Margarina;oleos_gorduras;-6.64;2024-11;-0.5
+373;Óleo de soja;oleos_gorduras;33.74;2024-11;11.5
+374;Café moído;outros;32.71;2024-11;3.78
+375;Café solúvel;outros;0.0;2024-11;0.0
+376;Sal;outros;0.0;2024-11;0.0
+377;Acém;proteinas;30.96;2024-11;6.93
+378;Alcatra;proteinas;27.96;2024-11;9.62
+379;Carne de porco;proteinas;20.16;2024-11;6.28
+380;Contrafilé;proteinas;26.84;2024-11;7.33
+381;Costela;proteinas;23.79;2024-11;6.43
+382;Frango em pedaços;proteinas;6.85;2024-11;0.49
+383;Frango inteiro;proteinas;2.22;2024-11;3.02
+384;Ovo de galinha;proteinas;-6.53;2024-11;0.82
+385;Banana - prata;frutas;10.84;2024-12;5.53
+386;Laranja - pera;frutas;55.77;2024-12;0.11
+387;Mamão;frutas;0.31;2024-12;1.45
+388;Maçã;frutas;12.64;2024-12;2.71
+389;Melancia;frutas;0.0;2024-12;0.0
+390;Arroz;graos;8.77;2024-12;-0.73
+391;Farinha de mandioca;graos;4.86;2024-12;3.24
+392;Farinha de trigo;graos;-1.75;2024-12;1.39
+393;Feijão - carioca (rajado);graos;-4.66;2024-12;-1.69
+394;Macarrão;graos;0.78;2024-12;-0.97
+395;Alface;hortalicas;2.98;2024-12;5.78
+396;Batata-inglesa;hortalicas;-1.49;2024-12;-11.61
+397;Cebola;hortalicas;-15.86;2024-12;-2.97
+398;Cenoura;hortalicas;-5.82;2024-12;-4.03
+399;Couve;hortalicas;1.24;2024-12;2.31
+400;Pimentão;hortalicas;-13.32;2024-12;-12.14
+401;Tomate;hortalicas;-26.62;2024-12;-5.84
+402;Iogurte e bebidas lácteas;laticinios;7.37;2024-12;0.11
+403;Leite longa vida;laticinios;24.24;2024-12;-2.25
+404;Queijo;laticinios;0.86;2024-12;1.82
+405;Azeite de oliva;oleos_gorduras;22.37;2024-12;0.63
+406;Manteiga;oleos_gorduras;0.0;2024-12;0.0
+407;Margarina;oleos_gorduras;-6.64;2024-12;-0.65
+408;Óleo de soja;oleos_gorduras;33.74;2024-12;6.3
+409;Café moído;outros;32.71;2024-12;5.49
+410;Café solúvel;outros;0.0;2024-12;0.0
+411;Sal;outros;0.0;2024-12;0.0
+412;Acém;proteinas;30.96;2024-12;8.36
+413;Alcatra;proteinas;27.96;2024-12;9.98
+414;Carne de porco;proteinas;20.16;2024-12;4.48
+415;Contrafilé;proteinas;26.84;2024-12;8.57
+416;Costela;proteinas;23.79;2024-12;5.7
+417;Frango em pedaços;proteinas;6.85;2024-12;1.87
+418;Frango inteiro;proteinas;2.22;2024-12;-0.03
+419;Ovo de galinha;proteinas;-6.53;2024-12;-0.08
