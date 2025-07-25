@@ -30,7 +30,7 @@
 
 ## 4. Comportamentos
 ### Algum item teve comportamento atípico em São Paulo?
-- [ ] A laranja pera aumentou drasticamente, devido a falta de chuvas, ocasionando uma queda na produção.
+- A laranja pera aumentou drasticamente, devido a falta de chuvas, ocasionando uma queda na produção.
 
 ----------------------------------------------------------------------------------
 
