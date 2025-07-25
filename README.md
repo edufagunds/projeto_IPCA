@@ -1,63 +1,39 @@
-# projeto_IPCA
+# Projeto IPCA 2024
 
-O presente trabalho tem como proposito responder as perguntas abaixo, sendo elas divididas em tópicos:
+- A ideia do projeto é analisar os dados de inflação do ano de 2024 e verificar os aumentos (inflação) e quedas (deflação)
+  de uma determinada cesta de produtos alimenticios presentes no cotidiano do paulista.
+- Para o desenvolvimento desse projeto, utilizei a linguagem Python e os Frameworks Pandas e Numpy.
+- A apresentação do projeto foi feita dentro do Power BI, através de um csv gerado pelo Pandas.
+
+----------------------------------------------------------------------------------
 
 ## 1. Tendências gerais
 ### Como os preços dos alimentos em São Paulo evoluíram ao longo do ano?
-- [ ] Identifique variações mensais e acumulado no ano.
-
-- [ ] Qual foi o mês com o maior aumento nos preços de alimentos em São Paulo?
-
-
+- Podemos perceber uma crescente na alta dos preços da laranja, o maior 
 
 ----------------------------------------------------------------------------------
 
 ## 2. Principais responsáveis pelo aumento
 ### Quais alimentos tiveram os maiores aumentos no ano?
-- [ ] Liste os itens que mais pressionaram a inflação alimentar.
+- Laranja Pera, Óleo de Soja, Café moido e Acém
 
 ### Quais alimentos apresentaram quedas ou aumentos menores?
-- [ ] Identifique possíveis alívios no orçamento.
+- Ovo de galinha, Margarina, Pimentão, Cebola e Tomate
 
 ----------------------------------------------------------------------------------
 
-## 3. Comportamento sazonal
-### Quais alimentos apresentam sazonalidade nos preços?
-- [ ] Exemplo: frutas subindo no verão, grãos na época de entressafra.
-### Existem padrões sazonais consistentes nos últimos meses?
-- [ ] Compare os alimentos individualmente.
+## 3. Impacto no cotidiano paulista
+### Qual item do prato básico foi o maior vilão da inflação alimentar
+- Dentre todas as altas que tivemos, os três que mais impactam na cesta do brasileiro são: Café(32.71%), Contrafilé(26.84%) e Leite(24.24%)
 
 ----------------------------------------------------------------------------------
 
-## 4. Impacto no custo do prato básico
-### Qual foi o aumento no custo de um prato básico em São Paulo?
-- [ ] Use a variável preco_prato_feito para calcular e mostrar a evolução.
-
-### Qual item do prato básico foi o maior vilão da inflação alimentar?
-- [ ] Identifique o peso individual dos itens.
-
-----------------------------------------------------------------------------------
-
-## 5. Comparações dentro da categoria
-### Quais grupos de alimentos (grãos, carnes, frutas, laticínios) foram mais impactados?
-- [ ] Realize uma análise por categorias.
+## 4. Comportamentos
 ### Algum item teve comportamento atípico em São Paulo?
-- [ ] Exemplos: queda inesperada, aumento acima da média nacional.
+- [ ] A laranja pera aumentou drasticamente, devido a falta de chuvas, ocasionando uma queda na produção.
 
 ----------------------------------------------------------------------------------
 
-## 6. Consumo e impacto
-### Os aumentos foram proporcionais à importância dos alimentos no consumo?
-- [ ] Analise se itens essenciais tiveram aumentos mais expressivos.
-
-### Qual foi o impacto nos preços de alimentos perecíveis em comparação aos não perecíveis?
-- [ ] Destaque diferenças.
-
-----------------------------------------------------------------------------------
-
-## 7. Insights futuros
+## 5. Insights futuros
 ### Quais alimentos têm maior potencial de alta nos próximos meses?
-- [ ] Identifique tendências baseadas em sazonalidade ou cenários econômicos.
-
-### Como a inflação alimentar de São Paulo pode impactar o poder de compra dos consumidores?
-- [ ] Relacione os aumentos ao orçamento médio de uma família.
+- Seguindo o fluxo, é de se esperar que a alta da laranja, café e do óleo de soja, o que foi confirmado nesse primeiro semestre.
