@@ -5,6 +5,12 @@
 - Para o desenvolvimento desse projeto, utilizei a linguagem Python e os Frameworks Pandas e Numpy.
 - A apresentação do projeto foi feita dentro do Power BI, através de um csv gerado pelo Pandas.
 
+
+## 0. Como analisar os dados
+- Abra o arquivo Base.ipynb.
+- Mude a variavel URL para a localizacao do arquivo contida no seu pc.
+- Rode os demais blocos.
+
 ----------------------------------------------------------------------------------
 
 ## 1. Tendências gerais
